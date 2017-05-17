@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b7c31e0fc6f114ff2dbf57be948cbc75d0696611/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b7c31e0fc6f114ff2dbf57be948cbc75d0696611/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.iamtheib.infiniterecyclerview/library/1.4/afa3c45e182ba4eab1ec14acaaf7fb18b440d0c6/library-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

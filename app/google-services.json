@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124661555900",
+    "firebase_url": "https://stories-of-common-man-669f4.firebaseio.com",
+    "project_id": "stories-of-common-man-669f4",
+    "storage_bucket": "stories-of-common-man-669f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124661555900:android:a7f5eb5853c7b0e1",
+        "android_client_info": {
+          "package_name": "com.vitech.storiesofcommonman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124661555900-0ao8mcrb8ka9f6nsqqjd8qjron2l1e9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitech.storiesofcommonman",
+            "certificate_hash": "96f277ac26cd4b76f71a1123218356b68a6386c0"
+          }
+        },
+        {
+          "client_id": "124661555900-ipbkgeq1t4tusus1k9rgqjgfr8vbo1np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4HgB7yFjifpMfY2yYa_oOMP9AccmyPoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124661555900-ipbkgeq1t4tusus1k9rgqjgfr8vbo1np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

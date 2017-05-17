@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stories of Common Man</string>
+    <string name="title_activity_main">Story Feed</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">111741692707007</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story">Story</string>
+<string name="about">“Common Man ” a collective noun that is often used for in fact a huge group of people , who are diversified very much in many ways . Each one thinks different , acts different  and each one has a unique passion . Grouping all of them under one word is so unfair . Isn’t it?
+\n\n\n
+So we decided we bring to you at least some of the people into focus through this blog . We live in a society that is so much partitioned that we do not know or care to know about each other’s world . It’s often surprising that the faces we see every day have so much to tell us about ,their struggles, happiness and stories of triumph , all that could be an inspiration to some of us . And we have so much to offer each other.Let’s take a sneak peek into our neighbor’s world.</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
